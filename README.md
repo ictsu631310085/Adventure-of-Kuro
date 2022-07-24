@@ -1,3 +1,4 @@
-Game Design II final project\
+Game Design II Final Project\
+\
 Artist: Natheethon Thammachat\
 Developer: Katathon Sangkaewsuk
