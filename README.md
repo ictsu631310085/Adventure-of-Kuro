@@ -1,4 +1,5 @@
-Game Design II Final Project\
+Adventure of Kuro\
+Unity 2020.3.24f1
 \
-Artist: Natheethon Thammachat\
-Developer: Katathon Sangkaewsuk
+2D Artist: นทีธร ธรรมชาติ\
+Developer: คฑาธร แสงแก้วสุข
