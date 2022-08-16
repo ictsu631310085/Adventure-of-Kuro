@@ -1,5 +1,4 @@
 # Adventure of Kuro
-\
 Engine: Unity 2020.3.24f1\
 \
 2D Artist: นทีธร ธรรมชาติ\
