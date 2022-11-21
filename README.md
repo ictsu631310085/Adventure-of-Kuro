@@ -10,5 +10,5 @@
 Unity 2020.3.24f1
 
 ### Credits
-Developer: คฑาธร แสงแก้วสุข https://github.com/ictsu631310085\
+Developer: คฑาธร แสงแก้วสุข https://github.com/ictsu631310085 \
 2D Artist: นทีธร ธรรมชาติ https://github.com/ictsu631310089
